@@ -1,0 +1,1 @@
+print(type , age , height = 'Ashmit',23,5.6))
