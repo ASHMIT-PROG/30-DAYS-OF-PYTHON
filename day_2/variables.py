@@ -1,5 +1,5 @@
 import math,keyword
-
+# keyword tells the keyword that are reserverd
 #'Day 2: 30 Days of python programming
 first_name = "Ashmit"
 last_name = "Sharma"
@@ -58,7 +58,7 @@ variable_floor_division = num_two//num_one
 # CIRCLE
 
 radius = 5
-area_of_circle = math.pi*r**2
+area_of_circle = math.pi*radius**2
 print(area_of_circle)
 
 circumference_of_circle = 2*math.pi*radius
